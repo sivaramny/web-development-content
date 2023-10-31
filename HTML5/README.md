@@ -5,7 +5,7 @@
 
 - [HTML](#html)
 - [Editors](#editors)
-- [Basic Strucutre of HTML](#basic-strucutre-of-html)
+- [Basic Strucutre of HTML](#basic-structure-of-html)
 - [Extension](#extension)
 - [HTML Elements && Attributes](#html-elements--attributes)
 - [Block Level vs Inline](#block-level-vs-inline)
@@ -44,7 +44,7 @@
 - Text Editor (Notepad / Notepad++)
 - Visual Studio Code
 
-### Basic Strucutre of HTML
+### Basic Structure of HTML
 
 ```
 <!DOCTYPE html> -> declaration defines that this document is an HTML5 document
@@ -321,16 +321,18 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
 #### [HTML APIs](https://www.geeksforgeeks.org/explain-apis-available-in-html5/)
 
 ### References
+- https://www.dcpehvpm.org/E-Content/BCA/BCA-II/Web%20Technology/the-complete-reference-html-css-fifth-edition.pdf
+- https://www.geeksforgeeks.org/html/
+- https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#planning_a_simple_website
 - https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
 - https://htmlcolorcodes.com/color-picker/
 - https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/
-- https://github.com/CyberBoyAyush/Simple-Portfolio
-- https://github.com/hello2himel/Developer-Portfolio
-- https://github.com/Vinayak-09/Vinayak-09.github.io
-- https://colorlib.com/wp/free-html5-website-templates/
-- https://github.com/myles/awesome-static-generators
 - https://tiiny.host/free-static-website-hosting/
 - https://render.com/docs/static-sites
-- https://mikkegoes.com/html-and-css-projects/
 - https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
+***
+Thank you by ***Sivaram.N***
+
+[sivaram.github.io](sivaram.github.io)
+***
