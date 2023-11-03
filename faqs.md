@@ -20,6 +20,8 @@
 - What is image map?
 - How do you insert a comment in html?
 - What is Selector in CSS?
+- Difference between Angular and React
+- Difference between UX and UI
 
 
 Reference:
