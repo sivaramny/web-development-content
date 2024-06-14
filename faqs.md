@@ -1,7 +1,7 @@
 ### Imp Questions
 
 - What are the key responsibilities of Web Developers?
-- What is diffeence between Block-level and Inline Elements
+- What is difference between Block-level and Inline Elements
 - Explain HTML5 Web storage.
 - List out newly introduced input types, APIs, form elements, and elements that support media content in HTML5.
 - Why do we use DOCTYPE in HTML?
